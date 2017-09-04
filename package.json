@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/mwishek/metalsmith-s3",
   "dependencies": {
-    "async": "^0.9.0",
+    "async": "^2.5.0",
     "aws-sdk": "^2.1.7",
     "debug": "^1.0.4",
     "front-matter": "^0.2.1",
